@@ -1,5 +1,7 @@
 # map-crusher
 
+[![Clojars Project](https://img.shields.io/clojars/v/iku000888/map-crusher.svg)](https://clojars.org/iku000888/map-crusher)
+
 Turns a nester Clojure map into a flat (deps=1) map with concatted attributes representing the original nesting.
 
 ## Usage
