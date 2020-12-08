@@ -1,4 +1,5 @@
-(ns iku000888.map.crusher)
+(ns iku000888.map.crusher
+  (:require [clojure.set]))
 
 (defn prefixify-map [prefix thing]
   (if (map? thing)
